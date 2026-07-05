@@ -10,4 +10,4 @@ A repository of custom watch faces I made/imported for the Huawei Watch Fit 4
 
 | | Original | With Date |
 |:-:|:-:|:-:|
-| Suisei Watch | <img src="https://github.com/Yoake2000/Huawei-Watch-Fit-4-Custom-Watch-Face/blob/main/SuiseiWatch/preview/cover.jpg?raw=true" width="204" height="215"> | <img src="https://github.com/Yoake2000/Huawei-Watch-Fit-4-Custom-Watch-Face/blob/main/SuiseiWatchDate/preview/cover.jpg?raw=true" width="204" height="215"> |
+| Suisei Watch | <img src="https://github.com/Yoake2000/Huawei-Watch-Fit-4-Custom-Watch-Face/blob/main/SuiseiWatch/preview/cover.jpg?raw=true" width="204" height="235"> | <img src="https://github.com/Yoake2000/Huawei-Watch-Fit-4-Custom-Watch-Face/blob/main/SuiseiWatchDate/preview/cover.jpg?raw=true" width="204" height="235"> |
