@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchface>
+  <element is_support_option="false" label="background" res_preview="A100_003.png">
+    <layer index="0" draw_type="single_res" res_active="A100_002.png" res_position="0,0" ambient_mode="0"/>
+  </element>
+  <element is_support_option="false" label="time" res_preview="">
+    <layer index="0" draw_type="hand_res" res_active_left="A100_004.png" rotate_rect="-46,-9,500,500" rotate_point_hand="205,250" rotate_start_angel="0" rotate_end_angel="360" value_type="542" ambient_mode="0"/>
+    <layer index="1" draw_type="hand_res" res_active_left="A100_005.png" rotate_rect="-45,-9,498,498" rotate_point_hand="204,249" rotate_start_angel="0" rotate_end_angel="360" value_type="153" ambient_mode="0"/>
+    <layer index="2" draw_type="hand_res" res_active_left="A100_006.png" rotate_rect="-45,-9,498,498" rotate_point_hand="204,249" rotate_start_angel="0" rotate_end_angel="360" value_type="150" ambient_mode="0"/>
+    <layer index="4" draw_type="hand_res" res_scale="" res_active_left="A100_007.png" rotate_rect="-45,-8,498,498" rotate_point_hand="204,249" rotate_start_angel="0" rotate_end_angel="360" value_type="153" ambient_mode="1"/>
+    <layer index="5" draw_type="hand_res" res_scale="" res_active_left="A100_008.png" rotate_rect="-45,-8,498,498" rotate_point_hand="204,249" rotate_start_angel="0" rotate_end_angel="360" value_type="150" ambient_mode="1"/>
+  </element>
+</watchface>
